@@ -1,4 +1,4 @@
-# (Interview) Resources
+# Learning Resources
 
 ## Basics
 * single thread vs multi thread
