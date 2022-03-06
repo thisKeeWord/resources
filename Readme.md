@@ -12,7 +12,13 @@
 * [URL entering](https://aws.amazon.com/blogs/mobile/what-happens-when-you-type-a-url-into-your-browser/)
 
 ## Backend
+
+### NodeJS
 * [NodeJS Event Loop](https://nodejs.dev/learn/the-nodejs-event-loop)
+* [NodeJS Single or Multi Thread - stackoverflow](https://stackoverflow.com/questions/17959663/why-is-node-js-single-threaded)
+* [NodeJS Single or Multi Thread - betterprogramming](https://betterprogramming.pub/is-node-js-really-single-threaded-7ea59bcc8d64)
+* [NodeJS Single or Multi Thread - devto](https://dev.to/arealesramirez/is-node-js-single-threaded-or-multi-threaded-and-why-ab1)
+* [NodeJS Single or Multi Thread - udemy](https://www.udemy.com/course/advanced-node-for-developers/learn/lecture/9636112#overview)
 
 ## Frontend
 * classical vs functional components
